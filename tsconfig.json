@@ -1,0 +1,12 @@
+//ts配置文件
+{
+    //ts编译器选项
+    "compilerOptions": {
+        //指定生成的 JavaScript 代码使用的模块系统
+        "module": "ES2015",
+        //指定 TypeScript 编译器要将 TypeScript 代码编译为哪个 ECMAScript 版本的 JavaScript 代码
+        "target": "ES2015",
+        //开启严格模式
+        "strict": true
+    }
+}
